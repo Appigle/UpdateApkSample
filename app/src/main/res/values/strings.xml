@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UpdateAppSample</string>
+    <string name="update_download_failed">下载失败</string>
+    <string name="udpate_download_failed_msg">下载失败信息</string>
+    <string name="udpate_download_started">下载开始</string>
+    <string name="udpate_download_processing">下载进行中</string>
+    <string name="udpate_download_finished">下载完成</string>
+    <string name="update_download_sucess">下载成功</string>
+    <string name="update_app">更新软件</string>
+    <string name="cancel">取消</string>
+    <string name="update">更新</string>
+</resources>
